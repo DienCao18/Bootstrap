@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+.header {
+    background-color: rgb(74, 74, 189) ;
+}
+.header-content {
+  
+   color: white;
+}
+.content {
+    margin-bottom: 50px;
+}
+.form-inline {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+   
+}
+
+.form-control  {
+    margin-right: 20px;
+}
+
+.header-input {
+    width: 400px;
+
+}
+
+.height {
+    height: 200px;
+    text-align: center;
+}
+
+.p-2 {
+    background-color: yellow;
+    
+}
+
+.size {
+    size: 100px;
+}
+
+.carousel-inner {
+    width: 500px;
+    height: 500px;
+}
+
+#demo {
+   
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.font-size {
+   display: flex;
+   justify-content: space-between;
+}
+
+.header-dc {
+    display: inline;
+}
